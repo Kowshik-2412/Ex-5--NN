@@ -2,7 +2,6 @@
 <H3>NAME:P KOWSHIK</H3>
 <H3>REGISTER NO: 212224040164</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE: 05.10.2024</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
